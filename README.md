@@ -1,2 +1,2 @@
-# mano-raaga
+# Mano - Raaga
 Emotion Recognition Music Player
